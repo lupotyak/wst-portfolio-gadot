@@ -1,0 +1,36 @@
+body {
+	font-family: 'Roboto', italic;
+
+}
+.nav{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#about_image {
+	border-radius: 100%;
+}
+
+#project_title {
+	color: blueviolet;
+}
+
+#projects_body {
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	justify-content: center;
+
+
+}
+
+
+
+#footer {
+	padding: 40px;
+	text-align: center;
+}
+
+
+
